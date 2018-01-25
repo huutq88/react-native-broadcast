@@ -1,0 +1,26 @@
+{
+  "name": "react-native-broadcast",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "broadcast",
+    "livestream"
+  ],
+  "author": "ugiacoman <unknown email>",
+  "homepage": "https://github.com/huutq88/react-native-broadcast",
+  "bugs": {
+    "url": "https://github.com/huutq88/react-native-broadcast/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huutq88/react-native-broadcast.git"
+  }
+}
